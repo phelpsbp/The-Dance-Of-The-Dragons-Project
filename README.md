@@ -8,7 +8,7 @@ The final output includes a dragon family tree and original images created using
 
 ## Quick Links
 
-- [Project Webpage](https://phelpsbp.github.io/Dance-of-the-Dragons-Analysis/)
+- [Project Webpage](https://phelpsbp.github.io/The-Dance-Of-The-Dragons-Project/)
 - [The Dataset](https://github.com/phelpsbp/The-Dance-Of-The-Dragons-Project/blob/main/dragon_data.csv)
 - [Project Notebook](https://github.com/phelpsbp/The-Dance-Of-The-Dragons-Project/blob/main/The%20Data%20of%20Dragons.ipynb)
 
